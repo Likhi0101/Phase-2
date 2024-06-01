@@ -1,0 +1,11 @@
+linked list - is more easily to manulicate the data 
+data is connected with each
+it consists of nodes
+node has two parts- data and address
+python doesn't know node,so we use class
+in node data should equal to 0 at starting
+whenever we create a node it will be single,so we will keep next-this will store a next node
+it has only on variable - head
+when calling a insertbein - we have to pass a value to it
+
+      

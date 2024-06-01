@@ -1,0 +1,5 @@
+every tree can be a graph but every graph cannot be a tree.
+we don't need to create a class
+can implement a graph in 2 ways
+    1. matrix
+    2. list

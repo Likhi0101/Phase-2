@@ -1,0 +1,14 @@
+2 types of searching
+    1. linear - one by one
+    2. binary - data should be sorted
+o(1) - const time
+o(n) - using only one for loop
+     - depend on no.of n
+space complexity - const
+bubble sort - largest num goes to last for every iteration
+insertion sort - pick one by one in unsorted and keep in original position
+selection sort - smallest num goes to first
+in insertion sort i value will start at 2 position
+quick sort - nlogn is better
+           - pick one by one and keep in original position 
+           - pivot element is 1st element - can be in first,last or middle	
